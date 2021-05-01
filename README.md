@@ -1,0 +1,2 @@
+# scraper.steam
+Gamedek plugin
