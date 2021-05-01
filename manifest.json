@@ -1,11 +1,4 @@
 {
-    "name": "it.magius.gamedek.plugin.scraper.steam",
-    "version": "1.0.0",
-    "author": {
-        "name": "Magius(CHE)",
-        "email": "magiusche@magius.it"
-    },
-    "repo": "https://github.com/MagiusCHE/gamedek-plugin-scraper-steam.git",
     "provides": "scraper-worker",
     "steam": {
         "fullListUrl": "https://api.steampowered.com/ISteamApps/GetAppList/v2/",

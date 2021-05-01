@@ -1,10 +1,3 @@
-const fs = require('fs')
-const md5 = require('md5')
-const mkdirp = require('mkdirp')
-const path = require('path')
-const rimraf = require('rimraf')
-const util = require('util');
-
 /*
 To load full list use: https://api.steampowered.com/ISteamApps/GetAppList/v2/
 Large banner: https://cdn.akamai.steamstatic.com/steam/apps/<appid>/header.jpg
